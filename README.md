@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisonru
 - 👀 I’m interested in cats, cooking, knitting and roller skating
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Flexbox, Bootstrap, AJAX & APIs, NodeJS 
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Flexbox, Bootstrap, AJAX & APIs, NodeJS, Python
 - 💞️ I’m looking to collaborate on learnin'
 
 <!---
